@@ -1,0 +1,27 @@
+
+@import "tailwindcss";
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #111827;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
